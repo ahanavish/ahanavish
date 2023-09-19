@@ -1,6 +1,6 @@
 <br>
 <h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m Ahana Vishwakarma </h1>
-<h3 align="center">Pursuing B.Tech CSE (3rd year) from Indira Gandhi Delhi Technical University for Women</h2>
+<h3 align="center">Pursuing B.Tech CSE (4th year) from Indira Gandhi Delhi Technical University for Women</h2>
 <br><br>
 <p> 🌱 I’m currently learning Web Development</p>
 <p> ✨ Will learn Machine Learning next</p>
