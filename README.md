@@ -1,9 +1,9 @@
 <br>
 <h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m Ahana Vishwakarma </h1>
-<h3 align="center">Pursuing B.Tech CSE (4th year) from Indira Gandhi Delhi Technical University for Women</h2>
+<h3 align="center">I'm a Software Engineer at Wells Fargo</h2>
 <br><br>
-<p> 🌱 I’m currently learning Web Development</p>
-<p> ✨ Will learn Machine Learning next</p>
+<p> 🌱 I’m currently working with Microsoft Copilot & Web Development tools</p>
+<p> ✨ Willing to learn Machine Learning</p>
 <p> 📫 Reach out to me at ahanavishwakarma01@gmail.com</p>
 <p> 💻 My primary coding and problem solving language: C++ </p>
 <br>
